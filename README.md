@@ -10,7 +10,7 @@ go run main.go <statefile> <inputfile>
 ### State File
 ```
 ```
-<current state> <tape symbol> <write symbol> <move> <next state>
+current_state tape_symbol write_symbol> move next_state
 ```
 ```
 
